@@ -138,6 +138,46 @@
               ]
             }
           ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            },
+            "key_code": "v"
+          },
+          "to": [
+            {
+              "repeat": true,
+              "key_code": "2",
+              "modifiers": [
+                "right_option"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            },
+            "key_code": "c"
+          },
+          "to": [
+            {
+              "repeat": true,
+              "key_code": "7",
+              "modifiers": [
+                "right_option"
+              ]
+            }
+          ]
         }
       ]
     }
